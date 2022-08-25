@@ -7,7 +7,7 @@
 
 - 🌍 Living in Rio Grande do sul, Brazil
 
-- 🧠 Studying about **JavaScript, HTML, CSS, TypeScript, React Native**
+- 🧠 Studying about **JavaScript, HTML, CSS, TypeScript, ReactJS**
 
 - 👨‍💻 More at: **Coming soon...**
 
