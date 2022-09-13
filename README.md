@@ -26,7 +26,7 @@
 <a href="https://Twitch.com/Zamit_" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Twitch-333333?style=flat&logo=Twitch&logoColor=purple" alt="Twitch"/>
 </a>
-<a href="Mailto:Sabimouse@gmail.com" target="_blank">
+<a href="Mailto:Zamit.eduardo@hotmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Gmail-333333?style=flat&logo=Gmail&logoColor=Red" alt="Gmail"/>
 </a>
 </div>
