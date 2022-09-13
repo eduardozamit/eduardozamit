@@ -14,7 +14,7 @@
 <!-- Contact -->
 ## Contact
 <div align="left">
-<a href="https://twitter.com/eduardozamit_" target="_blank">
+<a href="https://twitter.com/eZamit_" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-twitter-333333?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://Linkedin.com/in/eduardozamit" target="_blank">
