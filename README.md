@@ -1,13 +1,13 @@
 <h1 align="left">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Eduardo Zamit</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardozamit&color=blueviolet" alt="Profile views" /> </p>
 
-- 🔥 Software engineering student currently focused on web applications
+- 🔥 Software developer student currently focused on web applications
 
 - 💼 I’m currently looking for a Job/Internship
 
 - 🌍 Living in Rio Grande do sul, Brazil
 
-- 🧠 Studying about **JavaScript, HTML, CSS, TypeScript, ReactJS, MySql**
+- 🧠 Studying about **JavaScript, Java, ReactJS, MySql**
 
 - 👨‍💻 More at: **Coming soon...**
 
