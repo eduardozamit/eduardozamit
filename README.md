@@ -37,9 +37,11 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=coffeescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass&logoColor=cc6699)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=spring)
+![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
 
 
 </div>
