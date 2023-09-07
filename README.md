@@ -7,7 +7,7 @@
 
 - 🌍 Living in Rio Grande do sul, Brazil
 
-- 🧠 Studying about **JavaScript, Java, ReactJS, MySql**
+- 🧠 Studying about **JavaScript, Java, SpringBoot, postgresql, AWS**
 
 - 👨‍💻 More at: **Coming soon...**
 
